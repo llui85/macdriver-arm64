@@ -1,4 +1,4 @@
-module github.com/progrium/macdriver
+module github.com/llui85/macdriver-arm64
 
 go 1.16
 
